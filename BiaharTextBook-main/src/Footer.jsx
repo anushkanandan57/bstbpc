@@ -64,7 +64,7 @@ const Footer = () => {
         <div className="footer-column">
           <h4 className="footer-heading">Flagship Events</h4>
           <ul>
-            <li>AI for ALL: Global Impact Challenge</li>
+            <li>AI for ALL- Global Impact Challenge</li>
             <li>AI by HER: Global Impact Challenge</li>
             <li>YUVAI: Global Youth Challenge</li>
             <li>Research Symposium</li>
